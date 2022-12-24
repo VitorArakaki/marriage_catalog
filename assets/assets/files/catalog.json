@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Nazaré",
+      "desc": "Nazaréw Tesco a louca da escada",
+      "price": 2,
+      "color": "#4D252D",
+      "image":
+      "https://i0.wp.com/www.dabeme.com.br/wp-content/uploads/2022/05/Nazare.jpg?fit=1024%2C576&ssl=1"
+    },
+    {
+      "id": 2,
+      "name": "Pica Pau",
+      "desc": "Desenho top",
+      "price": 280,
+      "color": "#62CAE7",
+      "image":
+      "https://img.olhardigital.com.br/wp-content/uploads/2021/10/Pica-Pau.jpg"
+    },
+    {
+      "id": 3,
+      "name": "iPhone 13 Cream",
+      "desc": "Apple Mobile",
+      "price": 160,
+      "color": "#2881AE",
+      "image":
+      "https://pngimg.com/uploads/iphone_13/iphone_13_PNG30.png"
+    },
+    {
+      "id": 4,
+      "name": "iPhone 13 Blue",
+      "desc": "Apple Mobile",
+      "price": 700,
+      "color": "#9F5C43",
+      "image":
+      "https://pngimg.com/uploads/iphone_13/iphone_13_PNG27.png"
+    },
+    {
+      "id": 5,
+      "name": "iPhone 13 Orange",
+      "desc": "Apple Mobile",
+      "price": 540,
+      "color": "#64635D",
+      "image":
+      "https://pngimg.com/uploads/iphone_13/iphone_13_PNG2.png"
+    },
+    {
+      "id": 6,
+      "name": "iPhone 13 Green",
+      "desc": "Apple Mobile",
+      "price": 390,
+      "color": "#789CD1",
+      "image":
+      "https://pngimg.com/uploads/iphone_13/iphone_13_PNG9.png"
+    }
+  ]
+}
