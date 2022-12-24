@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196099255366",
+    "project_id": "marriagecatalogvg",
+    "storage_bucket": "marriagecatalogvg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196099255366:android:dcd301f5600ba74330ae47",
+        "android_client_info": {
+          "package_name": "com.example.marriage_catalog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196099255366-kie59u511os952j2e99g0bmbk5gc9l46.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbkXUu6IYhULwewF8ZpsjEaSclnEHU9PQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196099255366-kie59u511os952j2e99g0bmbk5gc9l46.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
